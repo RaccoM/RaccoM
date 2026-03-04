@@ -1,78 +1,57 @@
-## Hi there 👋
-# 👋 Salut, moi c'est Gabriel Matar
-
-### 🚀 Futur Ingénieur Data & IA | ESILV (Promo 2026)
-**"Transformer la donnée brute en solutions concrètes pour un impact réel."**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN_ICI)
-[![Portfolio](https://img.shields.io/badge/📂_Accéder_à_mes_projets-FF5733?style=for-the-badge&logo=github&logoColor=white)](#-portfolio--mes-réalisations)
+# 👋 Bonjour à tous, c'est Gabriel Matar qui vous parle !
 
 ---
 
-## 👨‍💻 À propos de moi
-Actuellement en 4ème année à l'**ESILV (La Défense)**, je me spécialise en **Data Science et Intelligence Artificielle**. Mon parcours est marqué par une double culture : la rigueur de l'ingénierie et l'agilité du terrain. 
+## 🔍 Profil & Expertise
 
-- 🧠 **Focus :** Machine Learning, NLP, Optimisation d'algorithmes.
-- 🌍 **Expérience Inter :** Un semestre à l'Université de Barcelone (Finance & Stats).
-- 🍹 **Soft Skills :** Ancien responsable de bar, j'ai appris à gérer le rush, l'imprévu et à travailler en équipe sous haute pression.
+Actuellement étudiant ingénieur multidisciplinaire à l'**ESILV**, je me spécialise en **Data Science et Intelligence Artificielle**. Doté de solides compétences techniques en développement (Python, C++, SQL, Rust), je suis passionné par la résolution de problèmes complexes et les défis algorithmiques grâce à l'innovation technologique.
+
+Mon GitHub reflète une multitude de projets développés avec divers langages et outils, illustrant ma capacité à m'adapter rapidement à différents écosystèmes techniques.
+
+**Aussi, n'hésitez pas à explorer mes dépôts : chaque projet dispose d'un README détaillé expliquant la démarche, les choix techniques et possiblement les résultats obtenus.**
 
 ---
 
 ## 🛠 Mon Stack Technique
 
 | Domaine | Technologies |
-| :--- | :--- |
-| **Data & AI** | `Python` `Pandas` `Scikit-learn` `PyTorch` `Matplotlib` `NLTK` |
-| **Développement** | `JavaScript` `C++` `SQL` `API REST` |
-| **Outils Startup** | `Retool` `Supabase` `Airtable` `Git` `Docker` |
+| --- | --- |
+| **Langages** | `Python` • `SQL` • `C++` • `C#` • `Rust` • `JavaScript` |
+| **Data & IA** | `PyTorch` • `TensorFlow` • `Scikit-learn` • `Pandas` • `NumPy` • `NLP` • `LLM` • `Computer Vision` |
+| **Outils & Ops** | `Git` • `Docker` • `Retool` • `Supabase` • `PowerBI` • `Arduino` • `Raspberry Pi` |
 
 ---
 
-## 📂 Portfolio : Mes Réalisations
-*Vous trouverez ci-dessous une sélection de mes travaux les plus significatifs. Cliquez sur les titres pour explorer le code.*
+## 📂 Portfolio : Projets Phares
 
-### 🧬 [Optimisation de Modèle par Algorithmes Génétiques](LIEN_VERS_REPO)
-> **Challenge :** Réduire la taille d'un modèle sans sacrifier sa précision.
-> - **Résultat :** -45% de taille de modèle via une approche d'élitisme sur 100 générations.
-> - **Stack :** Python, Cloud Computing (Google Colab).
+*(D'autres projets tout aussi intéressants sont disponibles dans **mes dépôts**, réalisés avec une grande diversité d'outils et de frameworks).*
 
-### 📦 [Analyse de Données Amazon & NLP](LIEN_VERS_REPO)
-> **Challenge :** Extraction d'insights sur des volumes massifs de feedbacks clients.
-> - **Techno :** Traitement du langage naturel (NLP) et Data Visualization.
+### 🧬 [Optimisation de LLM (GPT-2)](https://github.com/RaccoM/Evolutionary-GPT2-Pruning-Layer-Wise-Structural-Compression)
 
-### 🤖 [Fine-tuning GPT-2 & LLMs](LIEN_VERS_REPO)
-> **Challenge :** Adapter un modèle de langage à un domaine spécifique.
-> - **Stack :** PyTorch, HuggingFace.
+> 
+> **Challenge :** Automatiser la compression structurelle (*pruning*) de GPT-2 via des algorithmes génétiques pour réduire l'empreinte mémoire.
+> * **Résultat :** **-45%** de taille de modèle tout en conservant une perplexité stable.
+> 
+> 
 
----
+### 📦 Analyse de Données Amazon & NLP
 
-## 📈 Mes Statistiques GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical&hide=html,css" />
-</p>
+> 
+> **Challenge :** Prédire la note d'un produit en fusionnant des données structurées et des avis textuels (analyse de sentiment via VADER).
+> * **Résultat :** Modèle XGBoost avec une erreur absolue moyenne (MAE) de seulement **0,18**.
+> 
+> 
 
 ---
 
 ## 📫 Me contacter
-- **Email :** [Ton Email]
-- **Projet préféré :** Je suis particulièrement motivé par les projets **Anti-Gaspi** et la **Tech for Good**.
+
+**Email :** [gabrielmatar25@gmail.com](mailto:gabrielmatar25@gmail.com) | **LinkedIn :** [linkedin.com/in/gabrielmatar](https://www.linkedin.com/in/gabriel-matar-093644295/) 
 
 ---
+
 <p align="center">
-  <i>"L'imprévu me stimule, la data me guide."</i>
+<i>"La donnée donne la direction, l'intelligence crée le chemin."</i>
 </p>
-<!--
-**RaccoM/RaccoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
